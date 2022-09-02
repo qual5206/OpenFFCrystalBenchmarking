@@ -1,0 +1,961 @@
+Warning: Unable to load toolkit 'OpenEye Toolkit'. The Open Force Field Toolkit does not require the OpenEye Toolkits, and can use RDKit/AmberTools instead. However, if you have a valid license for the OpenEye Toolkits, consider installing them for faster performance and additional file format support: https://docs.eyesopen.com/toolkits/python/quickstart-python/linuxosx.html OpenEye offers free Toolkit licenses for academics: https://www.eyesopen.com/academic-licensing
+Warning: importing 'simtk.openmm' is deprecated.  Import 'openmm' instead.
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =        14406     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f= -4.66339D+04    |proj g|=  1.05472D+04
+
+At iterate    1    f= -4.70456D+04    |proj g|=  7.79518D+03
+
+At iterate    2    f= -4.87691D+04    |proj g|=  5.94618D+03
+
+At iterate    3    f= -5.64970D+04    |proj g|=  3.96017D+04
+
+At iterate    4    f= -5.68594D+04    |proj g|=  3.75337D+04
+
+At iterate    5    f= -6.35754D+04    |proj g|=  2.00198D+04
+
+At iterate    6    f= -6.78964D+04    |proj g|=  1.38406D+04
+
+At iterate    7    f= -7.10307D+04    |proj g|=  1.01332D+04
+
+At iterate    8    f= -7.19084D+04    |proj g|=  1.29781D+04
+
+At iterate    9    f= -7.38457D+04    |proj g|=  6.68529D+03
+
+At iterate   10    f= -7.44672D+04    |proj g|=  5.63722D+03
+
+At iterate   11    f= -7.47394D+04    |proj g|=  5.63647D+03
+
+At iterate   12    f= -7.50945D+04    |proj g|=  3.89065D+03
+
+At iterate   13    f= -7.54072D+04    |proj g|=  3.67810D+03
+
+At iterate   14    f= -7.57997D+04    |proj g|=  8.84899D+03
+
+At iterate   15    f= -7.58907D+04    |proj g|=  1.29598D+04
+
+At iterate   16    f= -7.61635D+04    |proj g|=  8.81617D+03
+
+At iterate   17    f= -7.63243D+04    |proj g|=  2.62594D+03
+
+At iterate   18    f= -7.64190D+04    |proj g|=  3.65049D+03
+
+At iterate   19    f= -7.65042D+04    |proj g|=  6.59727D+03
+
+At iterate   20    f= -7.65147D+04    |proj g|=  5.72168D+03
+
+At iterate   21    f= -7.66530D+04    |proj g|=  3.97422D+03
+
+At iterate   22    f= -7.67877D+04    |proj g|=  3.62624D+03
+
+At iterate   23    f= -7.68976D+04    |proj g|=  1.87596D+03
+
+At iterate   24    f= -7.69393D+04    |proj g|=  3.18375D+03
+
+At iterate   25    f= -7.69647D+04    |proj g|=  5.80197D+03
+
+At iterate   26    f= -7.69957D+04    |proj g|=  4.46924D+03
+
+At iterate   27    f= -7.70059D+04    |proj g|=  5.67014D+02
+
+At iterate   28    f= -7.70352D+04    |proj g|=  3.46250D+03
+
+At iterate   29    f= -7.70362D+04    |proj g|=  2.45538D+03
+
+At iterate   30    f= -7.70542D+04    |proj g|=  5.67623D+02
+
+At iterate   31    f= -7.70707D+04    |proj g|=  5.67481D+02
+
+At iterate   32    f= -7.70819D+04    |proj g|=  1.24169D+03
+
+At iterate   33    f= -7.71013D+04    |proj g|=  7.42113D+02
+
+At iterate   34    f= -7.71144D+04    |proj g|=  5.68023D+02
+
+At iterate   35    f= -7.71295D+04    |proj g|=  1.35680D+03
+
+At iterate   36    f= -7.71531D+04    |proj g|=  2.59230D+03
+
+At iterate   37    f= -7.71883D+04    |proj g|=  7.42278D+02
+
+At iterate   38    f= -7.72158D+04    |proj g|=  2.10466D+03
+
+At iterate   39    f= -7.72282D+04    |proj g|=  1.23966D+03
+
+At iterate   40    f= -7.72729D+04    |proj g|=  3.18965D+03
+
+At iterate   41    f= -7.73155D+04    |proj g|=  3.95484D+03
+
+At iterate   42    f= -7.73266D+04    |proj g|=  3.08827D+03
+
+At iterate   43    f= -7.73548D+04    |proj g|=  2.58958D+03
+
+At iterate   44    f= -7.73706D+04    |proj g|=  2.58899D+03
+
+At iterate   45    f= -7.73753D+04    |proj g|=  5.81045D+03
+
+At iterate   46    f= -7.73800D+04    |proj g|=  2.05518D+03
+
+At iterate   47    f= -7.73966D+04    |proj g|=  1.23873D+03
+
+At iterate   48    f= -7.74111D+04    |proj g|=  3.18902D+03
+
+At iterate   49    f= -7.74215D+04    |proj g|=  2.05556D+03
+
+At iterate   50    f= -7.74300D+04    |proj g|=  1.87760D+03
+
+At iterate   51    f= -7.74422D+04    |proj g|=  1.57885D+03
+
+At iterate   52    f= -7.74465D+04    |proj g|=  5.66097D+02
+
+At iterate   53    f= -7.74671D+04    |proj g|=  1.57856D+03
+
+At iterate   54    f= -7.74883D+04    |proj g|=  2.05686D+03
+
+At iterate   55    f= -7.74934D+04    |proj g|=  2.58248D+03
+
+At iterate   56    f= -7.75243D+04    |proj g|=  2.05842D+03
+
+At iterate   57    f= -7.75462D+04    |proj g|=  2.09987D+03
+
+At iterate   58    f= -7.75481D+04    |proj g|=  1.57750D+03
+
+At iterate   59    f= -7.75593D+04    |proj g|=  2.58244D+03
+
+At iterate   60    f= -7.75610D+04    |proj g|=  2.05805D+03
+
+At iterate   61    f= -7.75709D+04    |proj g|=  2.58208D+03
+
+At iterate   62    f= -7.75761D+04    |proj g|=  1.57696D+03
+
+At iterate   63    f= -7.75852D+04    |proj g|=  3.58567D+03
+[17:45:36] Explicit valence for atom # 2 C, 5, is greater than permitted
+[17:45:36] Explicit valence for atom # 3 C, 6, is greater than permitted
+
+At iterate   64    f= -7.75900D+04    |proj g|=  2.58001D+03
+
+At iterate   65    f= -7.75900D+04    |proj g|=  3.58367D+03
+
+At iterate   66    f= -7.75901D+04    |proj g|=  1.87234D+03
+
+At iterate   67    f= -7.76021D+04    |proj g|=  1.87233D+03
+
+At iterate   68    f= -7.76195D+04    |proj g|=  1.57588D+03
+
+At iterate   69    f= -7.76257D+04    |proj g|=  2.57850D+03
+
+At iterate   70    f= -7.76265D+04    |proj g|=  1.57546D+03
+
+At iterate   71    f= -7.76354D+04    |proj g|=  1.57524D+03
+
+At iterate   72    f= -7.76494D+04    |proj g|=  1.87093D+03
+
+At iterate   73    f= -7.76530D+04    |proj g|=  1.87056D+03
+
+At iterate   74    f= -7.76591D+04    |proj g|=  1.87055D+03
+
+At iterate   75    f= -7.76613D+04    |proj g|=  3.18031D+03
+
+At iterate   76    f= -7.76635D+04    |proj g|=  2.57548D+03
+
+At iterate   77    f= -7.76658D+04    |proj g|=  1.87039D+03
+
+At iterate   78    f= -7.76667D+04    |proj g|=  2.57357D+03
+
+At iterate   79    f= -7.76667D+04    |proj g|=  2.57357D+03
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+14406     79    131      1     0     0   2.574D+03  -7.767D+04
+  F =  -77666.666149290948     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =         8238     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f= -3.23546D+04    |proj g|=  4.91093D+03
+
+At iterate    1    f= -3.23834D+04    |proj g|=  4.03301D+03
+
+At iterate    2    f= -3.25649D+04    |proj g|=  1.92143D+03
+
+At iterate    3    f= -3.27236D+04    |proj g|=  8.91581D+03
+
+At iterate    4    f= -3.28279D+04    |proj g|=  2.76587D+03
+
+At iterate    5    f= -3.30071D+04    |proj g|=  1.04125D+04
+
+At iterate    6    f= -3.31639D+04    |proj g|=  1.19996D+04
+
+At iterate    7    f= -3.33060D+04    |proj g|=  1.06787D+04
+
+At iterate    8    f= -3.33828D+04    |proj g|=  9.65342D+03
+
+At iterate    9    f= -3.35063D+04    |proj g|=  6.88829D+03
+
+At iterate   10    f= -3.35493D+04    |proj g|=  4.71060D+03
+
+At iterate   11    f= -3.37360D+04    |proj g|=  6.51793D+03
+
+At iterate   12    f= -3.37572D+04    |proj g|=  6.65363D+03
+
+At iterate   13    f= -3.37812D+04    |proj g|=  7.20451D+03
+
+At iterate   14    f= -3.38328D+04    |proj g|=  6.91092D+03
+
+At iterate   15    f= -3.38763D+04    |proj g|=  7.82609D+03
+
+At iterate   16    f= -3.40199D+04    |proj g|=  5.23023D+03
+
+At iterate   17    f= -3.42235D+04    |proj g|=  6.95469D+03
+
+At iterate   18    f= -3.42950D+04    |proj g|=  4.71327D+03
+
+At iterate   19    f= -3.44401D+04    |proj g|=  2.79756D+03
+
+At iterate   20    f= -3.44915D+04    |proj g|=  4.73190D+03
+
+At iterate   21    f= -3.45000D+04    |proj g|=  2.80578D+03
+
+At iterate   22    f= -3.45802D+04    |proj g|=  3.35994D+03
+
+At iterate   23    f= -3.46488D+04    |proj g|=  2.40475D+03
+
+At iterate   24    f= -3.47070D+04    |proj g|=  3.09393D+03
+
+At iterate   25    f= -3.47382D+04    |proj g|=  2.09477D+03
+
+At iterate   26    f= -3.48405D+04    |proj g|=  2.97873D+03
+
+At iterate   27    f= -3.48789D+04    |proj g|=  2.99621D+03
+
+At iterate   28    f= -3.49620D+04    |proj g|=  2.21906D+03
+
+At iterate   29    f= -3.50355D+04    |proj g|=  1.63590D+03
+
+At iterate   30    f= -3.52211D+04    |proj g|=  1.65733D+03
+
+At iterate   31    f= -3.53969D+04    |proj g|=  1.37147D+03
+
+At iterate   32    f= -3.55361D+04    |proj g|=  2.15552D+03
+
+At iterate   33    f= -3.56040D+04    |proj g|=  6.44595D+03
+
+At iterate   34    f= -3.56853D+04    |proj g|=  4.12889D+03
+
+At iterate   35    f= -3.57155D+04    |proj g|=  2.24565D+03
+
+At iterate   36    f= -3.57872D+04    |proj g|=  2.17109D+03
+
+At iterate   37    f= -3.59480D+04    |proj g|=  5.19944D+03
+
+At iterate   38    f= -3.60711D+04    |proj g|=  4.60255D+03
+
+At iterate   39    f= -3.61769D+04    |proj g|=  5.22871D+03
+
+At iterate   40    f= -3.62443D+04    |proj g|=  5.31475D+03
+
+At iterate   41    f= -3.63140D+04    |proj g|=  5.09499D+03
+
+At iterate   42    f= -3.64816D+04    |proj g|=  2.56669D+03
+
+At iterate   43    f= -3.66108D+04    |proj g|=  3.11921D+03
+
+At iterate   44    f= -3.68363D+04    |proj g|=  2.54784D+03
+
+At iterate   45    f= -3.71582D+04    |proj g|=  1.05225D+04
+
+At iterate   46    f= -3.73041D+04    |proj g|=  1.27016D+04
+
+At iterate   47    f= -3.73612D+04    |proj g|=  9.54993D+03
+
+At iterate   48    f= -3.77018D+04    |proj g|=  6.59767D+03
+
+At iterate   49    f= -3.77672D+04    |proj g|=  5.48914D+03
+
+At iterate   50    f= -3.79586D+04    |proj g|=  1.97675D+03
+
+At iterate   51    f= -3.80363D+04    |proj g|=  3.09108D+03
+
+At iterate   52    f= -3.80838D+04    |proj g|=  2.02386D+03
+
+At iterate   53    f= -3.80927D+04    |proj g|=  1.69768D+03
+
+At iterate   54    f= -3.81641D+04    |proj g|=  4.87181D+03
+
+At iterate   55    f= -3.81736D+04    |proj g|=  3.01321D+03
+
+At iterate   56    f= -3.82090D+04    |proj g|=  1.24194D+03
+
+At iterate   57    f= -3.83100D+04    |proj g|=  1.46709D+03
+
+At iterate   58    f= -3.83449D+04    |proj g|=  1.39721D+03
+
+At iterate   59    f= -3.83943D+04    |proj g|=  1.83657D+03
+
+At iterate   60    f= -3.84343D+04    |proj g|=  2.09290D+03
+
+At iterate   61    f= -3.84505D+04    |proj g|=  3.01375D+03
+
+At iterate   62    f= -3.84709D+04    |proj g|=  3.23531D+03
+
+At iterate   63    f= -3.85663D+04    |proj g|=  1.60636D+03
+
+At iterate   64    f= -3.85778D+04    |proj g|=  1.46685D+03
+
+At iterate   65    f= -3.85822D+04    |proj g|=  1.39254D+03
+
+At iterate   66    f= -3.86123D+04    |proj g|=  1.24595D+03
+
+At iterate   67    f= -3.86721D+04    |proj g|=  1.41692D+03
+
+At iterate   68    f= -3.87060D+04    |proj g|=  1.29880D+03
+
+At iterate   69    f= -3.87213D+04    |proj g|=  1.38430D+03
+
+At iterate   70    f= -3.87250D+04    |proj g|=  1.23640D+03
+
+At iterate   71    f= -3.87277D+04    |proj g|=  1.86477D+03
+
+At iterate   72    f= -3.87626D+04    |proj g|=  1.32852D+03
+
+At iterate   73    f= -3.87794D+04    |proj g|=  7.62891D+02
+
+At iterate   74    f= -3.87910D+04    |proj g|=  1.03340D+03
+
+At iterate   75    f= -3.87993D+04    |proj g|=  1.07785D+03
+
+At iterate   76    f= -3.88211D+04    |proj g|=  1.58707D+03
+
+At iterate   77    f= -3.88402D+04    |proj g|=  1.72622D+03
+
+At iterate   78    f= -3.88539D+04    |proj g|=  2.42127D+03
+
+At iterate   79    f= -3.88557D+04    |proj g|=  1.32984D+03
+
+At iterate   80    f= -3.88790D+04    |proj g|=  1.44696D+03
+
+At iterate   81    f= -3.88912D+04    |proj g|=  1.08943D+03
+
+At iterate   82    f= -3.89032D+04    |proj g|=  2.64826D+03
+
+At iterate   83    f= -3.89135D+04    |proj g|=  2.69936D+03
+
+At iterate   84    f= -3.89296D+04    |proj g|=  6.15239D+02
+
+At iterate   85    f= -3.89555D+04    |proj g|=  9.10762D+02
+
+At iterate   86    f= -3.89659D+04    |proj g|=  1.16229D+03
+
+At iterate   87    f= -3.89767D+04    |proj g|=  6.67930D+02
+
+At iterate   88    f= -3.89774D+04    |proj g|=  1.47502D+03
+
+At iterate   89    f= -3.89977D+04    |proj g|=  9.62928D+02
+
+At iterate   90    f= -3.90214D+04    |proj g|=  1.06493D+03
+
+At iterate   91    f= -3.90374D+04    |proj g|=  8.98216D+02
+
+At iterate   92    f= -3.90410D+04    |proj g|=  1.45760D+03
+
+At iterate   93    f= -3.90413D+04    |proj g|=  1.73786D+03
+
+At iterate   94    f= -3.90418D+04    |proj g|=  2.29772D+03
+
+At iterate   95    f= -3.90549D+04    |proj g|=  1.46422D+03
+
+At iterate   96    f= -3.90549D+04    |proj g|=  1.21008D+03
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+ 8238     96    147      1     0     0   1.210D+03  -3.905D+04
+  F =  -39054.851679095809     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =        12966     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f= -3.41733D+04    |proj g|=  4.20344D+03
+
+At iterate    1    f= -3.41908D+04    |proj g|=  4.20215D+03
+
+At iterate    2    f= -3.42338D+04    |proj g|=  2.71260D+03
+
+At iterate    3    f= -3.42538D+04    |proj g|=  8.12661D+02
+
+At iterate    4    f= -3.43193D+04    |proj g|=  1.89334D+03
+
+At iterate    5    f= -3.44319D+04    |proj g|=  5.44660D+03
+
+At iterate    6    f= -3.44590D+04    |proj g|=  2.94380D+03
+
+At iterate    7    f= -3.45720D+04    |proj g|=  5.44420D+03
+
+At iterate    8    f= -3.45984D+04    |proj g|=  5.44776D+03
+
+At iterate    9    f= -3.45992D+04    |proj g|=  4.21314D+03
+
+At iterate   10    f= -3.46858D+04    |proj g|=  2.96262D+03
+
+At iterate   11    f= -3.50112D+04    |proj g|=  5.49493D+03
+
+At iterate   12    f= -3.50554D+04    |proj g|=  2.20984D+03
+
+At iterate   13    f= -3.51583D+04    |proj g|=  2.97776D+03
+
+At iterate   14    f= -3.53059D+04    |proj g|=  4.25084D+03
+
+At iterate   15    f= -3.53184D+04    |proj g|=  2.98624D+03
+
+At iterate   16    f= -3.54115D+04    |proj g|=  4.25696D+03
+
+At iterate   17    f= -3.54213D+04    |proj g|=  5.52561D+03
+
+At iterate   18    f= -3.54383D+04    |proj g|=  5.53001D+03
+
+At iterate   19    f= -3.54472D+04    |proj g|=  5.53425D+03
+
+At iterate   20    f= -3.54635D+04    |proj g|=  5.55049D+03
+
+At iterate   21    f= -3.54641D+04    |proj g|=  5.56066D+03
+
+At iterate   22    f= -3.54649D+04    |proj g|=  4.29215D+03
+
+At iterate   23    f= -3.55082D+04    |proj g|=  3.02252D+03
+
+At iterate   24    f= -3.55441D+04    |proj g|=  3.03397D+03
+
+At iterate   25    f= -3.55843D+04    |proj g|=  3.88861D+03
+
+At iterate   26    f= -3.56104D+04    |proj g|=  2.49095D+03
+
+At iterate   27    f= -3.56338D+04    |proj g|=  2.48959D+03
+
+At iterate   28    f= -3.56691D+04    |proj g|=  3.43341D+03
+
+At iterate   29    f= -3.56739D+04    |proj g|=  7.29793D+02
+
+At iterate   30    f= -3.56841D+04    |proj g|=  7.29705D+02
+
+At iterate   31    f= -3.56919D+04    |proj g|=  1.57878D+03
+
+At iterate   32    f= -3.56983D+04    |proj g|=  1.57964D+03
+
+At iterate   33    f= -3.57170D+04    |proj g|=  1.58073D+03
+
+At iterate   34    f= -3.57219D+04    |proj g|=  2.73623D+03
+
+At iterate   35    f= -3.57362D+04    |proj g|=  3.89272D+03
+
+At iterate   36    f= -3.57375D+04    |proj g|=  3.05747D+03
+
+At iterate   37    f= -3.57402D+04    |proj g|=  2.23924D+03
+
+At iterate   38    f= -3.57549D+04    |proj g|=  4.77701D+02
+
+At iterate   39    f= -3.57745D+04    |proj g|=  4.77931D+02
+
+At iterate   40    f= -3.57833D+04    |proj g|=  4.78368D+02
+
+At iterate   41    f= -3.58461D+04    |proj g|=  2.74832D+03
+
+At iterate   42    f= -3.58461D+04    |proj g|=  1.29848D+03
+
+At iterate   43    f= -3.58510D+04    |proj g|=  3.18963D+03
+
+At iterate   44    f= -3.58521D+04    |proj g|=  4.13568D+03
+
+At iterate   45    f= -3.58599D+04    |proj g|=  2.24448D+03
+
+At iterate   46    f= -3.58672D+04    |proj g|=  1.29888D+03
+
+At iterate   47    f= -3.58712D+04    |proj g|=  1.59055D+03
+
+At iterate   48    f= -3.58725D+04    |proj g|=  1.59058D+03
+
+At iterate   49    f= -3.58744D+04    |proj g|=  2.74911D+03
+
+At iterate   50    f= -3.58756D+04    |proj g|=  2.24698D+03
+
+At iterate   51    f= -3.58772D+04    |proj g|=  2.74944D+03
+
+At iterate   52    f= -3.58858D+04    |proj g|=  2.74973D+03
+
+At iterate   53    f= -3.58918D+04    |proj g|=  4.84843D+02
+
+At iterate   54    f= -3.58939D+04    |proj g|=  5.93702D+02
+
+At iterate   55    f= -3.58961D+04    |proj g|=  1.78216D+03
+
+At iterate   56    f= -3.58974D+04    |proj g|=  1.78287D+03
+
+At iterate   57    f= -3.59009D+04    |proj g|=  1.30111D+03
+
+At iterate   58    f= -3.59059D+04    |proj g|=  5.93496D+02
+
+At iterate   59    f= -3.59114D+04    |proj g|=  1.78358D+03
+
+At iterate   60    f= -3.59117D+04    |proj g|=  8.13104D+02
+
+At iterate   61    f= -3.59152D+04    |proj g|=  7.25823D+02
+
+At iterate   62    f= -3.59194D+04    |proj g|=  1.88508D+03
+[19:29:40] Explicit valence for atom # 7 N, 4, is greater than permitted
+[19:29:41] Explicit valence for atom # 1 C, 6, is greater than permitted
+[19:29:41] Explicit valence for atom # 2 C, 5, is greater than permitted
+/home/yu-tang/anaconda3/envs/OpenFFCrystall_GPU/lib/python3.8/site-packages/numpy/core/getlimits.py:499: UserWarning: The value of the smallest subnormal for <class 'numpy.float64'> type is zero.
+  setattr(self, word, getattr(machar, word).flat[0])
+/home/yu-tang/anaconda3/envs/OpenFFCrystall_GPU/lib/python3.8/site-packages/numpy/core/getlimits.py:89: UserWarning: The value of the smallest subnormal for <class 'numpy.float64'> type is zero.
+  return self._float_to_str(self.smallest_subnormal)
+/home/yu-tang/anaconda3/envs/OpenFFCrystall_GPU/lib/python3.8/site-packages/numpy/core/getlimits.py:499: UserWarning: The value of the smallest subnormal for <class 'numpy.float32'> type is zero.
+  setattr(self, word, getattr(machar, word).flat[0])
+/home/yu-tang/anaconda3/envs/OpenFFCrystall_GPU/lib/python3.8/site-packages/numpy/core/getlimits.py:89: UserWarning: The value of the smallest subnormal for <class 'numpy.float32'> type is zero.
+  return self._float_to_str(self.smallest_subnormal)
+/home/yu-tang/anaconda3/envs/OpenFFCrystall_GPU/lib/python3.8/site-packages/pymatgen/core/__init__.py:49: UserWarning: Error loading .pmgrc.yaml: [Errno 2] No such file or directory: '/home/yu-tang/.pmgrc.yaml'. You may need to reconfigure your yaml file.
+  warnings.warn(f"Error loading .pmgrc.yaml: {ex}. You may need to reconfigure your yaml file.")
+4107711
+7200790
+4500369
+4020664
+2105585
+2012958
+2104943
+7052848
+2015070
+1511816
+2203540
+2107937
+2100349
+4025034
+7219429
+1549860
+2205643
+2015769
+2007511
+2229458
+2002929
+Initial Energy 15412.927560220705 kJ/mol
+Minimizing Energy!
+Initial box vector
+ [[2.9649     0.         0.        ]
+ [0.13098006 3.7321023  0.        ]
+ [0.33556671 0.23998093 4.24751226]]
+Initial box parameter
+ [ 2.9649  3.7344  4.2675 86.62   85.49   87.99  ]
+result [9.41349499e-02 6.20367949e-02 1.06949042e-01 ... 8.65993343e+01
+ 8.55372350e+01 8.80436798e+01]
+Final Energy = -77666.66614929095 kJ/mol
+2238806
+1519873
+7220218
+2217204
+2209888
+2021969
+2020594
+7157439
+8100793
+2226624
+2206832
+4116203
+2012828
+2231307
+1555524
+1513592
+7121743
+2219974
+1100992
+7213183
+4116819
+2102305
+2237654
+2223130
+2105702
+2004882
+2241317
+2200633
+7238219
+2217222
+2100662
+7100858
+4038405
+2216977
+2104971
+2203006
+7228868
+7216950
+4507100
+4515127
+2215272
+4037918
+7154682
+7206161
+7056752
+2200608
+2200184
+7232896
+4501703
+4034456
+1504357
+2006099
+Initial Energy -26426.23712434295 kJ/mol
+Minimizing Energy!
+Initial box vector
+ [[ 2.98        0.          0.        ]
+ [-0.67010769  3.27321018  0.        ]
+ [-1.02345855 -1.24244868  3.05732905]]
+Initial box parameter
+ [  2.98     3.3411   3.4552 107.03   107.23   101.57  ]
+result [-1.93989884e-02 -4.56014256e-02  5.17950832e-02 ...  1.07137653e+02
+  1.07213269e+02  1.01545763e+02]
+Final Energy = -39054.85167909581 kJ/mol
+2236470
+2203632
+Initial Energy -24976.71007205511 kJ/mol
+Minimizing Energy!
+Initial box vector
+ [[ 3.0944      0.          0.        ]
+ [-0.91676786  3.25932176  0.        ]
+ [-0.74703272 -1.02713851  3.98447645]]
+Initial box parameter
+ [  3.0944   3.3858   4.182  100.84   100.29   105.71  ]
+`xtol` termination condition is satisfied.
+Number of iterations: 457, function evaluations: 513, CG iterations: 16656, optimality: 3.29e+02, constraint violation: 0.00e+00, execution time: 6.2e+03 s.
+result [-4.51552696e-03  7.78624074e-02  5.86156176e-02 ...  1.00833298e+02
+  1.00244865e+02  1.05701081e+02]
+Final Energy = -35468.00236757695 kJ/mol
+1511801
+2208241
+2300006
+2212364
+7200842
+2208405
+2210911
+2100147
+7238221
+2018826
+2008185
+1100249
+2100348
+4037663
+1100989
+1519825
+2224771
+7206516
+4035731
+7206934
+7118053
+1504777
+2105612
+7236728
+2100437
+4501702
+7239749
+1516412
+2014075
+2100350
+2012267
+2205115
+2205937
+2022073
+2200844
+7100390
+2005486
+2022053
+2201333
+2211928
+2008450
+1519868
+7219800
+7214418
+2201001
+7241270
+2229006
+7235707
+7045653
+2231503
+2017090
+4507232
+2237525
+7052010
+2208497
+4508226
+1513289
+4114396
+2018597
+2239864
+7216997
+4037916
+1513282
+7236113
+2235036
+4116140
+2242302
+2241551
+2100840
+2225118
+2022026
+7241376
+7214681
+7121745
+2002966
+7210454
+2208843
+7242545
+2231730
+7052009
+2220694
+1504385
+2007155
+2311084
+2220312
+2003630
+4037896
+4516576
+2202092
+7204577
+4126195
+2238379
+2103490
+1518526
+1011023
+4506226
+2212078
+1519191
+2242758
+2243066
+2006075
+1548052
+2216200
+7110463
+2237770
+2206542
+2221170
+2108038
+2214563
+2238479
+7206297
+2311654
+7039793
+1010060
+7238218
+2004431
+2203255
+2100603
+2236004
+2207637
+2204844
+4339655
+7154066
+2218498
+2107938
+7054714
+1519794
+7117669
+7221877
+7151750
+2212135
+2006784
+2219243
+2007371
+7151616
+7111201
+Initial Energy -81558.02902847878 kJ/mol
+Minimizing Energy!
+Initial box vector
+ [[3.0658     0.         0.        ]
+ [0.83879014 3.23636926 0.        ]
+ [0.21245307 1.46896651 3.9593393 ]]
+Initial box parameter
+ [ 3.0658  3.3433  4.2284 69.58   87.12   75.47  ]
+result [-7.01660964e-02 -6.64450377e-02 -3.98806577e-02 ...  6.95629330e+01
+  8.71492022e+01  7.54900605e+01]
+Final Energy = -100928.38078318365 kJ/mol
+7219235
+4022058
+4513593
+2234776
+2100865
+2210848
+2016262
+2240041
+4501704
+7059603
+1556231
+2101393
+3500018
+2203241
+2234037
+2008677
+7221763
+4027137
+2104176
+1557858
+2234322
+ This problem is unconstrained.
+
+ Warning:  more than 10 function and gradient
+   evaluations in the last line search.  Termination
+   may possibly be caused by a bad search direction.
+ This problem is unconstrained.
+ This problem is unconstrained.
+
+ Bad direction in the line search;
+   refresh the lbfgs memory and restart the iteration.
+ This problem is unconstrained.
+
+At iterate   63    f= -3.59242D+04    |proj g|=  1.88499D+03
+
+At iterate   64    f= -3.59350D+04    |proj g|=  1.88487D+03
+
+At iterate   65    f= -3.59389D+04    |proj g|=  3.08433D+03
+
+At iterate   66    f= -3.59491D+04    |proj g|=  1.88444D+03
+
+At iterate   67    f= -3.59516D+04    |proj g|=  1.88429D+03
+
+At iterate   68    f= -3.59570D+04    |proj g|=  1.78626D+03
+
+At iterate   69    f= -3.59570D+04    |proj g|=  1.78626D+03
+
+At iterate   70    f= -3.59637D+04    |proj g|=  1.78648D+03
+
+At iterate   71    f= -3.59716D+04    |proj g|=  1.88290D+03
+
+At iterate   72    f= -3.59761D+04    |proj g|=  3.08687D+03
+
+At iterate   73    f= -3.59779D+04    |proj g|=  1.78702D+03
+
+At iterate   74    f= -3.59813D+04    |proj g|=  3.08761D+03
+
+At iterate   75    f= -3.59814D+04    |proj g|=  4.38818D+03
+
+At iterate   76    f= -3.59814D+04    |proj g|=  3.08777D+03
+
+At iterate   77    f= -3.59818D+04    |proj g|=  3.08779D+03
+
+At iterate   78    f= -3.59823D+04    |proj g|=  3.08784D+03
+  ys=-1.600E-01  -gs= 1.253E+00 BFGS update SKIPPED
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =        14262     M =           10
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f= -9.92377D+04    |proj g|=  9.33448D+03
+
+At iterate    1    f= -9.93090D+04    |proj g|=  2.97199D+03
+
+At iterate    2    f= -9.93455D+04    |proj g|=  4.26146D+03
+
+At iterate    3    f= -9.93607D+04    |proj g|=  8.63263D+02
+
+At iterate    4    f= -9.95574D+04    |proj g|=  1.71284D+03
+
+At iterate    5    f= -9.96242D+04    |proj g|=  8.64576D+02
+
+At iterate    6    f= -9.96967D+04    |proj g|=  3.45017D+03
+
+At iterate    7    f= -9.97361D+04    |proj g|=  3.44551D+03
+
+At iterate    8    f= -9.98635D+04    |proj g|=  2.46247D+03
+
+At iterate    9    f= -1.00049D+05    |proj g|=  4.30879D+03
+
+At iterate   10    f= -1.00079D+05    |proj g|=  4.31433D+03
+
+At iterate   11    f= -1.00155D+05    |proj g|=  3.87741D+03
+
+At iterate   12    f= -1.00175D+05    |proj g|=  3.37417D+03
+
+At iterate   13    f= -1.00183D+05    |proj g|=  2.71298D+03
+
+At iterate   14    f= -1.00295D+05    |proj g|=  1.54897D+03
+
+At iterate   15    f= -1.00419D+05    |proj g|=  9.96561D+03
+
+At iterate   16    f= -1.00420D+05    |proj g|=  8.66398D+03
+
+At iterate   17    f= -1.00488D+05    |proj g|=  6.06019D+03
+
+At iterate   18    f= -1.00582D+05    |proj g|=  4.74956D+03
+
+At iterate   19    f= -1.00624D+05    |proj g|=  3.37193D+03
+
+At iterate   20    f= -1.00709D+05    |proj g|=  3.37149D+03
+
+At iterate   21    f= -1.00782D+05    |proj g|=  2.13965D+03
+
+At iterate   22    f= -1.00793D+05    |proj g|=  2.13882D+03
+
+At iterate   23    f= -1.00857D+05    |proj g|=  1.53800D+03
+
+At iterate   24    f= -1.00909D+05    |proj g|=  8.59358D+02
+
+At iterate   25    f= -1.00928D+05    |proj g|=  2.94338D+03
+
+At iterate   26    f= -1.00928D+05    |proj g|=  5.48986D+03
+
+At iterate   27    f= -1.00928D+05    |proj g|=  4.21988D+03
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+14262     27     46      1     0     0   4.220D+03  -1.009D+05
+  F =  -100928.38078318365     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
